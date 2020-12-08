@@ -1,1 +1,1 @@
-# -ekil-izdirme
+# -sekil-cizdirme

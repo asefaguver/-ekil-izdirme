@@ -1,0 +1,1 @@
+# -ekil-izdirme

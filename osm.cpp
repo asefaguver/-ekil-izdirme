@@ -6,7 +6,7 @@ int main()
 	int choice;
 	int dimension;
 	do {
-		cout << "1. Rectangle 1\n2. Rectangle 2\n3. Rectangle 3\n4. Rectangle 4\n5. Rhomb(Only Odd)\n6. Circle\n7. Close Application\n";
+		cout << "1. Rectangleee 1\n2. Rectangle 2\n3. Rectangle 3\n4. Rectangle 4\n5. Rhomb(Only Odd)\n6. Circle\n7. Close Application\n";
 		cout << "Enter your choice: ";
 		cin >> choice;
 
